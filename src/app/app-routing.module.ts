@@ -4,8 +4,8 @@ import { AboutUsComponent } from './about-us/about-us.component';
 import { FaqComponent } from './faq/faq.component';
 
 const routes: Routes = [
-  {path:'about-us', component:AboutUsComponent},
-  {path:'faq', component:FaqComponent}
+  { path: 'about-us', component: AboutUsComponent },
+  { path: 'faq', component: FaqComponent }
 ];
 
 @NgModule({
